@@ -1,13 +1,13 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeepikaaAPA-red)](https://www.youtube.com/@ms.poonamchauhan743)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-DeepikaaAPA-red)](https://www.youtube.com/@ms.poonamchauhan743)<\br>
 [![Linkedin Badge](https://img.shields.io/badge/-Deepikaa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepikaa-apa-85a87b2a9/)](https://www.linkedin.com/in/deepikaa-apa-85a87b2a9/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-DeepikaaAPA-yellow)](https://stackoverflow.com/users/18828160/poonam-chauhan)
 [![Website Badge](https://img.shields.io/badge/WebSite-DeepikaaAPA-green)](https://poonamchauhan229.github.io/Portfolio_Website/)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,Mysql)
+
+🌱 I’m currently learning FullStackDevelopment.
+    I have 3 years of experience in DataWarehousing.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/DeepikaaAPA/count.svg)
@@ -15,7 +15,7 @@ The crossover between design and programming has always been of interest to me, 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">    
-    <img src="https://github-profile-trophy.vercel.app/?username=poonamchauhan229&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=DeepikaaAPA&column=7"/>
   </a>
 </div>
 

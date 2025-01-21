@@ -4,7 +4,7 @@
 
 
 
-🌟 Front-end virtuoso & BI report maestro with 3 years of experience, known for innovative solutions and award-winning creativity. Recently upskilled in MERN stack, now diving deep into full-stack projects. Let’s build the future together! 🚀
+🌟 Front-end developer & BI report maestro with 3 years of experience, known for innovative solutions and award-winning creativity. Recently upskilled in MERN stack, now diving deep into full-stack projects. Let’s build the future together! 🚀
 
 
 ![Visitor Count](https://profile-counter.glitch.me/DeepikaaAPA/count.svg)

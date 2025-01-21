@@ -2,7 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Deepikaa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepikaa-apa-85a87b2a9/)](https://www.linkedin.com/in/deepikaa-apa-85a87b2a9/)
 
-[![Website Badge](https://img.shields.io/badge/WebSite-DeepikaaAPA-green)](https://poonamchauhan229.github.io/Portfolio_Website/)
 
 
 🌟 Front-end virtuoso & BI report maestro with 3 years of experience, known for innovative solutions and award-winning creativity. Recently upskilled in MERN stack, now diving deep into full-stack projects. Let’s build the future together! 🚀
